@@ -1,0 +1,12 @@
+//
+//  Debug.xcconfig
+//  ResourceLab
+//
+//  Concurrent Resource Loader example project.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+API_SCHEME = https
+API_HOST = dummyjson.com
